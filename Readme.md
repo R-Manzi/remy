@@ -57,24 +57,16 @@ toString() : O(1)
 
 
 
-
-ces Laboratoires contiennent  des exemples de code et des solutions à des problèmes  selon  ces structures .
-
-Les exemples de code couvrent Algorithmes de tri:, le laboratoire 3.
-
-Algorithmes de tri (par exemple, Tri à bulles, Tri fusion, Tri rapide, Tri selection, Tri insertion)
-
-Laboratoire  est fait en  Java.
-
-
 **Utilisation**
 
 **Comment exécuter le programme**
+ 
 Ouvrir une invite de commande ou un terminal dans le dossier racine du projet : javac *.java
 
-Compiler les fichiers source avec la commande suivante :java Main
+Compiler les fichiers source et le lancer a partir du fichier View.. 
 
 Pour exécuter les exemples de code,  nous avons utulisé intellij.
+  En Java.
 
 resulat: 
 
